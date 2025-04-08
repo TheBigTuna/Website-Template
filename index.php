@@ -1,8 +1,5 @@
 
-<?php // header("Location: /articles.php");
- include('navbar.php');
-?>
-
+<?php include('navbar.php'); ?>
 <link href="style/index.css" rel="stylesheet">
 
 <div id="homeContainer">
@@ -105,6 +102,55 @@
                 </div>
             </div>
             </section>
+       
+            <section class="siteInfo2 py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="text-center">
+                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
+                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
+                                    Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
+                                    Etiam et lorem aliquet, facilisis massa sed, pharetra sem. Nunc ac mauris aliquet, aliquet turpis nec, vestibulum sem. Quisque 
+                                    vitae magna a ex egestas hendrerit eu non est. 
+                                    Sed in odio eget ante porta fringilla.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="text-center">
+                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
+                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
+                                    Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
+                                    Etiam et lorem aliquet, facilisis massa sed, pharetra sem. Nunc ac mauris aliquet, aliquet turpis nec, vestibulum sem. Quisque 
+                                    vitae magna a ex egestas hendrerit eu non est. 
+                                    Sed in odio eget ante porta fringilla.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="text-center">
+                                <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
+                                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
+                                    Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
+                                    Etiam et lorem aliquet, facilisis massa sed, pharetra sem. Nunc ac mauris aliquet, aliquet turpis nec, vestibulum sem. Quisque 
+                                    vitae magna a ex egestas hendrerit eu non est. 
+                                    Sed in odio eget ante porta fringilla.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+       
         </div>
         <div class="col-0 col-sm-1"></div>
     </div>
@@ -112,5 +158,5 @@
 
 
 <?php // header("Location: /articles.php");
-//  include('resources/footer.php');
+ include('resources/footer.php');
 ?>

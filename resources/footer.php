@@ -3,7 +3,10 @@
 <div id="footerContainer">
     <div class="container">
         <div class="row">
-            <div class="col-2">Test1</div>
+            <div class="col-2">
+                <h6>Email</h6>
+                <h6>Email@mail.com</h6>
+            </div>
             <div class="col-8">
                 <h3 id="footerCompanyTitle">Company Title</h3>
                 <h6 id="footerCompanySubtitle">Company Subtitle</h3>
@@ -13,11 +16,13 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <div class="py-4">
-                    <small id="footerSmallText">This referral website is under the management of a lead generation company. 
+                <div class="py-4 text-center">
+                    <small id="footerSmallText">
+                        This referral website is under the management of a lead generation company. 
                         We do not perform the work/service our selves. We help our website visitors & leads in & around 
                         ################ find ############## by partnering with an 
-                        ########################### and transferring all customer inquiries and callers to our partner. </small>
+                        ########################### and transferring all customer inquiries and callers to our partner.
+                    </small>
                 </div>
             </div>
         </div>

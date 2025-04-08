@@ -44,20 +44,31 @@
 								<!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/learn.php">Learn</a>
 								</li> -->
-								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-									<a class="nav-link" href="/services.php">Services</a>
+								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 d-block d-lg-none">
+									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
+									<div class="dropdown-menu">
+										<a class="dropdown-item" href="/account/profile.php">Service #1</a>
+										<a class="dropdown-item" href="/handler/signout.php">Service #2</a>
+									</div>
 								</li>
-								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+								<li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4 d-none d-lg-block">
+									<a class="nav-link dropdown-toggle" href="/pages/services.php">Services</a>
+									<div class="dropdown-menu">
+										<a class="dropdown-item" href="/account/profile.php">Service #1</a>
+										<a class="dropdown-item" href="/handler/signout.php">Service #2</a>
+									</div>
+								</li>
+								<!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/about-us.php">About Us</a>
-								</li>
-								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-									<a class="nav-link" href="/privacy.php">Privacy</a>
-								</li>
-								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+								</li> -->
+								<!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/articles.php">Articles</a>
-								</li>
+								</li> -->
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/contact.php">Contact Us</a>
+								</li>
+								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+									<a class="nav-link" href="/pages/privacy-policy.php">Privacy</a>
 								</li>
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
 									<a class="nav-link" href="/pages/disclaimer.php">Disclaimer</a>
