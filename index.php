@@ -32,7 +32,7 @@
                     <div class="col-lg-12">
                         <h1 class="font-weight-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
                         <h3 class="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam.</h3>
-                        <p>
+                        <p class="pageText">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                             Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; 
@@ -109,7 +109,7 @@
                         <div class="col-lg-6">
                             <div class="text-center">
                                 <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
-                                <p>
+                                <p class="pageText">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                                     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
                                     Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
@@ -122,7 +122,7 @@
                         <div class="col-lg-6">
                             <div class="text-center">
                                 <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
-                                <p>
+                                <p class="pageText">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                                     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
                                     Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 
@@ -137,7 +137,7 @@
                         <div class="col-12">
                             <div class="text-center">
                                 <h3 class="font-weight-bold">Lorem ipsum dolor sit amet</h3>
-                                <p>
+                                <p class="pageText">
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                                     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi congue sed odio eget laoreet.
                                     Mauris et ligula erat. Sed a sodales tortor. Quisque at felis vitae mi efficitur egestas in a neque. Aliquam quis nibh pretium, 

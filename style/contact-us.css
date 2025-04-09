@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
-#servicesContainer{
+#contactUsContainer{
     margin-top: 5rem;
 }
 
-#servicesWrapper{
+#contactUsWrapper{
     /* position: absolute; */
     /* width: calc(80em - 14px); */
     padding-left: 14px;
@@ -19,29 +19,29 @@
     -moz-transform: translateY(-50%) translateX(-50%); */
 }
 
-#servicesHeadText{
+#contactUsHeadText{
     font-weight: 700;
     font-family: 'Nunito', sans-serif;
     color: black;
     font-size: 60px;
 }
 
-#servicesSubText{
+#contactUsSubText{
     font-family: 'Nunito', sans-serif;
     color: black;
     font-size: 32px;
 }
 
-.servicesSubTitles{
+.contactUsSubTitles{
     text-align: center;
     font-weight: 700;
 }
 
-.servicesTexts{
+.contactUsTexts{
     font-size: 1.2rem;
 }
 
-.servicesSection{
+.contactUsSection{
     padding: 22px;
 }
 

@@ -1,18 +1,18 @@
 <?php include('../navbar.php'); ?>
-<link href="../style/services.css" rel="stylesheet">
+<link href="../style/contact-us.css" rel="stylesheet">
 
-<div id="servicesContainer">
-    <div id="servicesWrapper">
+<div id="contactUsContainer">
+    <div id="contactUsWrapper">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-xl-8">
                     <div>
-                        <h1 id="servicesHeadText">Services</h1>
-                        <h2 id="servicesSubText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+                        <h1 id="contactUsHeadText">Contact Us</h1>
+                        <h2 id="contactUsSubText">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
                     </div>
                     <div>
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts">
+                        <h3 class="contactUsSubTitles">Lorem ipsum dolor sit amet</h3>
+                        <p class="contactUsTexts">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                             Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
@@ -31,8 +31,8 @@
             </div>
             <div class="row">
                 <div class="col-12 col-xl-8">
-                    <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts">
+                    <h3 class="contactUsSubTitles">Lorem ipsum dolor sit amet</h3>
+                        <p class="contactUsTexts">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                             Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
@@ -42,9 +42,9 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                    <div class="servicesSection">
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts text-center">
+                    <div class="contactUsSection">
+                        <h3 class="contactUsSubTitles">Lorem ipsum dolor sit amet</h3>
+                        <p class="contactUsTexts text-center">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                             Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
@@ -56,9 +56,9 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                    <div class="servicesSection">
-                        <h3 class="servicesSubTitles">Lorem ipsum dolor sit amet</h3>
-                        <p class="servicesTexts text-center">
+                    <div class="contactUsSection">
+                        <h3 class="contactUsSubTitles">Lorem ipsum dolor sit amet</h3>
+                        <p class="contactUsTexts text-center">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Praesent at nisi ultricies, lobortis erat id, vulputate quam. 
                             Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
