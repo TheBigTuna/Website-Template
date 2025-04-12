@@ -32,6 +32,11 @@
 	font-size: 16px;
 }
 
+#contact h5 {
+	color: #8167a9;
+	font-weight: 700;
+}
+
 fieldset {
 	border: medium none !important;
 	margin: 0 0 10px;

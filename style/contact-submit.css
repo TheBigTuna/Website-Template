@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
-#privacyPolicyContainer{
+#contactSubmitContainer{
     margin-top: 5rem;
 }
 
-#privacyPolicyWrapper{
+#contactUsWrapper{
     /* position: absolute; */
     /* width: calc(80em - 14px); */
     padding-left: 14px;
@@ -18,34 +18,3 @@
     -ms-transform: translateY(-50%) translateX(-50%);
     -moz-transform: translateY(-50%) translateX(-50%); */
 }
-
-#privacyPolicyHeadText{
-    font-weight: 700;
-    font-family: 'Nunito', sans-serif;
-    color: black;
-    font-size: 60px;
-}
-
-#privacyPolicySubText{
-    font-family: 'Nunito', sans-serif;
-    color: black;
-    font-size: 32px;
-}
-
-.privacyPolicySubTitles{
-    text-align: center;
-    font-weight: 700;
-}
-
-.privacyPolicyTexts{
-    font-size: 1.2rem;
-}
-
-.privacyPolicySection{
-    padding: 22px;
-}
-
-#contactContainer {
-    position: absolute;
-    z-index: 1;
-  }

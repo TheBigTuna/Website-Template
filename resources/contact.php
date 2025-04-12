@@ -1,9 +1,9 @@
 <link href="/style/contact.css" rel="stylesheet">
 
 <div id="contactContainer">  
-  <form id="contact" action="handler/contactHandler.php" method="POST">
-    <h3>Contact Us</h3>
-    <h4>Contact us today, and get a reply by the next business day!</h4>
+  <form id="contact" action="/handler/contactHandler.php" method="POST">
+    <h5>Request a Free Estimate</h5>
+    <h6>Contact us today, and get a reply no commitment quote by the next business day!</h6>
     <!-- <p><span style="color: red">*</span> Indicates required field</p> -->
     <fieldset>
       <input placeholder="Your Name" name="Name" type="text" tabindex="1" maxlength="50" autocomplete="off" required autofocus>
