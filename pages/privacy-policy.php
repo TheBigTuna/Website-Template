@@ -44,10 +44,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="privacyPolicySection">
-                        <h3 class="privacyPolicySubTitles">Lorem ipsum dolor sit amet</h3>
+                        <h3 class="privacyPolicySubTitles">Common Data We Collect Includes</h3>
                         <p class="privacyPolicyTexts">
-                        common data we collect includes:
-                        <br>
                         Referral sources
                         <br>
                         Duration of site visits
@@ -79,55 +77,4 @@
     </div>
     <div class="row"></div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="privacyPolicyContainer">
-    <div class="container">
-        <div class="row">
-
-
-        </div>
-    </div>
-</div>
+<?php include('../resources/footer.php'); ?>

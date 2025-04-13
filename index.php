@@ -157,6 +157,4 @@
 </div>
 
 
-<?php // header("Location: /articles.php");
- include('resources/footer.php');
-?>
+<?php include('resources/footer.php'); ?>
