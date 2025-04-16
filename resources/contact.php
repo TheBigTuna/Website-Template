@@ -19,5 +19,6 @@
     <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Send</button>
     </fieldset>
+    <input type="hidden" name="currentPage" value="<?php echo $_SERVER['REQUEST_URI']; ?>">
   </form>
 </div>

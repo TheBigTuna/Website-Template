@@ -2,6 +2,8 @@
 include("../resources/connection.php"); 
 session_start();
 
+print_r($_POST);
+echo "<br>";
 // Checks for the largest ID available
 $FetchID = "SELECT max(ID) AS ID FROM omoore94_template.contactsubmit";        
 // $FetchIDResult = mysqli_query($conn, $FetchID);
@@ -32,15 +34,16 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .= 'From: <mooresoftwareus@gmail.com>' . "\r\n";
 $headers .= 'Cc: mooreoctavius94@gmail.com' . "\r\n";
 
-
-
 $mail_sent = mail("mooreoctavius94@gmail.com","New Test Website Visitor 4/11/2025","Hello I am in interested in your service", $headers);
 echo $mail_sent ? "Mail sent" : "Mail failed";
 echo "<br>";
 print_r($_POST);
 echo "<br>";
 
-
 header('Location: ../pages/thank-you.php');
 
 ?>
+
+
+
+
