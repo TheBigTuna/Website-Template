@@ -3,10 +3,21 @@
 
 <div id="privacyPolicyContainer">
     <div id="privacyPolicyWrapper">
+        <section class="mobile-contact d-xl-none mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-1"></div>
+                    <div class="col-10">
+                        <?php include('../resources/contact-mobile.php'); ?>
+                    </div>
+                    <div class="col-1"></div>
+                </div>
+            </div>
+        </section>
         <div class="container">
             <div class="row">
                 <div class="col-12 col-xl-8">
-                    <div>
+                    <div class="mt-5">
                         <h1 id="privacyPolicyHeadText">Privacy Policy</h1>
                         <h2 id="privacyPolicySubText">Your Privacy Matters to Us</h2>
                     </div>

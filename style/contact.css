@@ -20,7 +20,7 @@
 }
 
 #contact h3 {
-	color: #8167a9;
+	color: #C70039;
 	display: block;
 	font-size: 34px;
 	font-weight: 700;
@@ -33,7 +33,7 @@
 }
 
 #contact h5 {
-	color: #8167a9;
+	color: #C70039;
 	font-weight: 700;
 }
 
@@ -70,7 +70,7 @@ fieldset {
 	cursor:pointer;
 	width:100%;
 	border:none;
-	background: #8167a9;
+	background: #C70039;
 	color:#FFF;
 	margin:0 0 5px;
 	padding:10px;
@@ -78,7 +78,7 @@ fieldset {
 }
 
 #contact button[type="submit"]:hover {
-	background: #8167a9;
+	background: #C70039;
 	-webkit-transition:background 0.3s ease-in-out;
 	-moz-transition:background 0.3s ease-in-out;
 	transition:background-color 0.3s ease-in-out;

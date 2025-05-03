@@ -7,7 +7,8 @@
 body{
   overflow-x: hidden;
   /* margin-bottom: 2rem; */
-  background-color: #e6e6e6
+  /* Background-color here */
+  /* background-color: #e6e6e6 */
 
 }
 
@@ -97,11 +98,11 @@ body{
 #lessons ul li{
   margin-bottom: 1.2em;
   color: #fff;
-  background-color: #8167a9; 
+  background-color: #C70039; 
 }
 
 #lessons ul li:hover{
-  background-color: #8167a9;
+  background-color: #C70039;
 }
 
 #lessons ul li h4{
@@ -195,7 +196,7 @@ body{
     transition: all 200ms linear;
 }
 .nav-item:hover .nav-link{
-	color: #8167a9 !important;
+	color: #C70039 !important;
 }
 .nav-item.active .nav-link{
 	color: #777 !important;
@@ -212,7 +213,7 @@ body{
 	width: 100%;
 	height: 2px;
 	content: '';
-	background-color: #8167a9;
+	background-color: #C70039;
 	opacity: 0;
     transition: all 200ms linear;
 }
@@ -232,7 +233,7 @@ body{
 ================================================== */
 
 .bg-light {
-	background-color: #fff !important;
+	/* background-color: #fff !important; */
     transition: all 200ms linear;
 }
 .section {
@@ -251,7 +252,7 @@ body{
 	top: 50%;
 	left: 0;
 	width: 100%;
-  margin-top: 40px;
+  	margin-top: 40px;
 	transform: translateY(-50%);
 	z-index: 20;
 }
@@ -280,7 +281,7 @@ body{
 	background-color: #fcfaff;
 	border: none;
 	border-radius: 3px;
-	box-shadow: 0 5px 10px 0 rgba(138, 155, 165, 0.15);
+	box-shadow: 0 5px 10px 0 rgba(199, 0, 57, 0.15);
     transition: all 200ms linear;
 }
 .dropdown-toggle::after {
@@ -296,7 +297,7 @@ body{
 .dropdown-item:hover, 
 .dropdown-item:focus {
 	color: #fff;
-	background-color: rgba(129,103,169,.6);
+	background-color: rgba(199, 0, 57, .6);
 }
 
 .dropdown:hover .dropdown-menu{ 
@@ -352,4 +353,57 @@ body{
 		margin-top: 10px !important;
 		margin-bottom: 20px !important;
 	}
+}
+
+.text-indent{
+	text-indent: 2rem;
+}
+
+
+  
+.pricing .card{
+  /* background-color: #27c0c9;
+  color: white; */
+}
+.pricing .card-price .period {
+    font-size: 0.8rem;
+  }
+  
+  .pricing ul li {
+    margin-bottom: 1rem;
+  }
+  
+  .pricing .text-muted {
+    opacity: 0.7;
+  }
+  
+  .pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+  }
+  
+
+  .pricing .card {
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .pageText{
+    font-size: 1.05rem;
+    text-indent: 2rem;
+  }
+
+  .nav-number-link{
+	  color: inherit;
+	  text-decoration: none;
+	  font-family: 'Nunito', sans-serif;
+  }
+
+  .nav-number-link:hover{
+	color: inherit;
+	text-decoration: none;
 }
